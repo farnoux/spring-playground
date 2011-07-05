@@ -52,9 +52,6 @@
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
   <script>window.jQuery || document.write("<script src='<c:url value="/static/js/libs/jquery-1.6.1.min.js" />'>\x3C/script>")</script>
 
-  <!--[if lt IE 7 ]>
-    <script src="js/libs/dd_belatedpng.js"></script>
-    <script>DD_belatedPNG.fix("img, .png_bg"); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
-  <![endif]-->
+  <script src="js/script.js"></script>
 </body>
 </html>
