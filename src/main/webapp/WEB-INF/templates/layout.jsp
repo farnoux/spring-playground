@@ -15,8 +15,9 @@
   <meta name="description" content="spring playground">
   <meta name="author" content="farnoux">
 
-  <link rel="shortcut icon" href="/favicon.ico">
-
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="author" href="humans.txt" />
+  
   <link rel="stylesheet" href="<c:url value="/static/css/main.css" />" />
 
 <!--[if IE]>
