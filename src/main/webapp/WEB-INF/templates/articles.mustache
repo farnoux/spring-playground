@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  
+  <title>Spring playground</title>
+  
+  <meta name="description" content="A list of articles">
+  <meta name="author" content="farnoux">
+
+  <link rel="stylesheet" href="/playground/static/css/main.css" />
+</head>
+<body>
+
+  <h1>Articles</h1>
+  
+  <ul>
+    {{#articleList}}
+      <li>{{article.id}} - {{article.title}} - {{article.body}}</li>
+    {{/articleList}}
+  </ul>
+  
+</body>
+</html>
